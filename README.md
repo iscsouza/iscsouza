@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou Isaac Souza!
 
-<!--
-**iscsouza/iscsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cientista de Dados | Desenvolvedor de Machine Learning**  
+💼 Atualmente trabalhando na **Neoenergia**  
+🚀 Construindo soluções de dados end-to-end para desafios reais  
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades Técnicas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Linguagens & Frameworks**  
+→ **Python, SQL, JavaScript, R**  
+→ **Scikit-learn, PyTorch, TensorFlow, StatsModels**  
+
+### **Bancos de Dados & Armazenamento**  
+→ **SAP Hana, DB2, MySQL, PostgreSQL, Oracle DB, MongoDB, S3, Iceberg**  
+
+### **Processamento & Engenharia de Dados**  
+→ **PySpark, Spark, SciPy, NumPy, DuckDB, Pandas, Databricks, Airflow**  
+
+### **Visualização & BI**  
+→ **Power BI, Apache Superset, Altair, Vega, Matplotlib, Seaborn**  
+
+### **Cloud & MLOps**  
+→ **Azure, AWS, Databricks, MLFlow, SageMaker, CI/CD**  
+
+### **Outras Tecnologias**  
+→ **VS Code, Linux, Git, GitHub, FastAPI, HTMX, TailwindCSS, Alpine.js, Docker, Kubernetes**  
+
+## 💡 Experiência & Projetos  
+
+🔹 **Distribuição de Energia**  
+🔹 **Processos Comerciais**  
+🔹 **Detecção de Fraudes**
+🔹 **Cadeia de Suprimentos (Supply Chain)**  
+🔹 **Marketing**  
+
+### **Destaques**  
+✅ Implantação e monitoramento de modelos de ML em containers  
+✅ Desenvolvimento de dashboards interativos com **FastAPI, HTMX, Dash**  
+✅ Repositórios no GitHub compartilhando boas práticas em DS/ML  
+
+## 📫 Contato  
+
+📧 **Email:** [iscsouza@hotmail.com](mailto:iscsouza@hotmail.com)  
+📞 **Telefone:** +55 (77) 99862-2534  
+🔗 **LinkedIn:** [www.linkedin.com/in/souza-isaac](#)  
+🐱 **GitHub:** [@iscsouza](https://github.com/iscsouza)  
+
+---
+
+⭐ **Explore meus repositórios e vamos colaborar!** ⭐  
+
+```python
+print("Vamos transformar dados em insights poderosos! 🚀")
