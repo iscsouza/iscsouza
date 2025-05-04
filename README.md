@@ -29,7 +29,7 @@
 
 🔹 **Distribuição de Energia**  
 🔹 **Processos Comerciais**  
-🔹 **Detecção de Fraudes**
+🔹 **Detecção de Fraudes**  
 🔹 **Cadeia de Suprimentos (Supply Chain)**  
 🔹 **Marketing**  
 
