@@ -9,7 +9,6 @@
 ✅ Desenvolvimento de dashboards interativos com **PowerBI, FastAPI, HTMX, Dash**  
 ✅ Compartilhando boas práticas em DS/ML  
 
-⭐ **Explore meus repositórios e vamos colaborar!** ⭐  
+**Explore meus repositórios e vamos colaborar!**
 
-```python
-print("Vamos transformar dados em insights! 🚀")
+
